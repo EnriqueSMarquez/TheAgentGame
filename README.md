@@ -1,2 +1,2 @@
-# Reversi_MiniMax
-MiniMax algorithm for reversi game
+# TheAgentGame
+The Agent Game using old fashion AI search algorithms.
